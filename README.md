@@ -16,6 +16,10 @@
 	</ul>
 	<br>
 
+<br>
+<h1>#The code for API automation using postman is here</h1>
+<ul>
+<li>Collections for api SpaceX "https://github.com/Mishrane/FrameworksandTests/blob/master/SpaceX%20APi%20automation.postman_collection_latest"</li>
 
 
-
+<br>
