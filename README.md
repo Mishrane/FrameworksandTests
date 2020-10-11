@@ -20,21 +20,5 @@
 <img src = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/cucumber-pretty-advanced.PNG" title = "cucumber pretty and advanced"/>
 <br>
 
-<h2>Snapshots - Cucumber - Pretty - Report: See here </h2>
-<br>
-<ul>
-<li><a href = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/cucumber-pretty1.PNG" title = "cucumber pretty and advanced">Cucumber-pretty summarized</a></li>
-<li><a href = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/cucucmber-pretty.pdf" title = "cucumber pretty and advanced">Cucumber-pretty expanded</a></li>
-</ul>
-
-<h2>Snapshots - Cucumber - Advanced - Report: See here </h2>
-<br>
-<ul>
-<li><a href = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/cucumber-advanced2.PNG" title = "cucumber pretty and advanced">Cucumber-advance summarized</a></li>
-<li><a href = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/cucumber-advance.pdf" title = "cucumber pretty and advanced">Cucumber-advance expanded</a></li>
-</ul>
-
-<br>
-	
 
 
