@@ -1,5 +1,5 @@
 <h1># Cucumber-BDD-Automation-Framework</h1>
-<h2>Behavior Driven Development Cucumber - Selenium based automation framework</h2>
+<h2>Behavior Driven Development Cucumber - Selenium based automation framework--|| this contains the scenario to automate flight booking via https://blazedemo.com/</h2>
 
 		  
 <h2>Directory structure:</h2>
