@@ -15,10 +15,7 @@
 	<li>Cucumber Advance (folder - "target\cucumber-reports\advanced-reports\cucumber-html-reports"), file - "overview-features.html"	</li>
 	</ul>
 	<br>
-<h2>Folders for these reports:</h2>
-<br>
-<img src = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/cucumber-pretty-advanced.PNG" title = "cucumber pretty and advanced"/>
-<br>
+
 
 
 
